@@ -18,6 +18,7 @@ h1 {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    white-space: nowrap;
 }
 
 .logo {
